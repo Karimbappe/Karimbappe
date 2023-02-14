@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GPT3-openAI](https://github.com/Karimbappe/GPT3-openAI)
 
-- 🌱 I’m currently learning **IOS/SwiftUI and React.Js and React Native**
+- 🌱 I’m currently learning **IOS/SwiftUI, React.Js and React Native** Good knowledge of those frameworks but still working on them to improve my skills
 
 - 💬 Ask me about **Javascript, React.Js, CSS, HTML.**
 

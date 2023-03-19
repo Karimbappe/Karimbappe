@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimbappe" alt="karimbappe" /></a> </p>
 
-- 🔭 I’m currently working on [GPT3-openAI](https://github.com/Karimbappe/GPT3-openAI)
+- 🔭 I’m currently working on [a three.JS portfolio](https://github.com/Karimbappe/GPT3-openAI)
 
-- 🌱 I’m currently learning **IOS/SwiftUI, React.Js and React Native** Good knowledge of those frameworks but still working on them to improve my skills
+- 🌱 I’m currently learning **IOS/SwiftUI, Three.JS React.Js and React Native** Good knowledge of those frameworks but still working on them to improve my skills
 
 - 💬 Ask me about **Javascript, React.Js, CSS, HTML.**
 
 - 📫 How to reach me **Karim.Fraboulet@gmail.com**
 
-- ⚡ Fun fact **“Did you know diarrhea’s hereditary? It runs in your jeans.”**
+- ⚡ Fun fact **“The difference between a million and a billion :<br> 
+If you think about it in seconds it’s way more clear ! 2 millions seconds is equal to 2 weeks, when 2 billions seconds is equal to 63 years…
+So fellow billionaires share ffs”** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

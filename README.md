@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me<br>
-Hey there! I'm a Full Stack Web Developer based in the beautiful city of Paris, France :fr:.<br> Two years ago, I made a life-changing decision to switch careers and dive into the world of web development.<br> I'm passionate about Front End and Mobile Development, and I've never looked back since!
+Hey there! I'm a Front-end Web Developer based in the beautiful city of Paris, France :fr:.<br> Two years ago, I made a life-changing decision to switch careers and dive into the world of web development.<br> I'm passionate about Front End and Mobile Development, and I've never looked back since!
 
 :computer: My Tech Stack<br>
 Front End: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next, Tailwindcss<br>

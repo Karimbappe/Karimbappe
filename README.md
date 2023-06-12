@@ -29,13 +29,13 @@ Feel free to reach out to me through any of the following channels:
 I'm always open to new opportunities, collaborations, or just a friendly chat. Let's connect!
 
 ## Other Common Github Profile Sections<br>
-👩‍💻 I'm currently working on a Three.JS portfolio<br>
+👩‍💻 I'm currently working on a Carhub web app in Next.JS and TypeScript<br>
 
-🧠 I'm currently learning Three.JS<br>
+🧠 I'm currently learning Next.JS and TypeScript<br>
 
 👯‍♀️ I'm looking to collaborate on any project for the greater good on wich i can be helpful<br>
 
-🤔 I'm looking for help with if you know something about Three.js<br>
+🤔 I'm looking for help with if you know something about Next.JS<br>
 
 💬 Ask me about JS, CSS, HTML, React<br>
 
